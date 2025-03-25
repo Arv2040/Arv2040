@@ -25,7 +25,7 @@
 ### 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Arv2040&theme=radical&no-bg=true&no-frame=true)  
 
-![GitHub Heatmap](https://github-readme-streak-stats.herokuapp.com/?user=Arv2040&theme=dracula&hide_border=true)
+
 
 
 
