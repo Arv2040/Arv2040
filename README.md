@@ -19,11 +19,11 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 📊 GitHub Stats  
-![Arav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AravJain&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AravJain&layout=compact&theme=radical)  
+![Arav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arv2040&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arv2040&layout=compact&theme=radical)  
 
 ### 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AravJain&theme=radical&no-bg=true&no-frame=true)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Arv2040&theme=radical&no-bg=true&no-frame=true)  
 
 
 
