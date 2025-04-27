@@ -1,8 +1,8 @@
 # Hi there, I'm Arav Jain! 👋  
 
 ### 🚀 About Me  
-- 🔥 Passionate about Web Development & Competitive Programming  
-- 📚 Currently learning **DSA, Web Development, Offensive Security**  
+- 🔥 Passionate about Web Development & Football  
+- 📚 Currently learning **DSA, Web Development**  
 - 💻 Building cool projects with **Next.js & React**  
 - 🏋️‍♂️ Gym + Studies + Code + Football = Balanced Life  
 
